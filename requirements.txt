@@ -2,3 +2,4 @@ fastapi
 uvicorn
 transformers[sentencepiece]==4.37.2
 torch 
+SACREMOSES
